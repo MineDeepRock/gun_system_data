@@ -1,0 +1,23 @@
+{
+    "type": "SniperRifle",
+    "name": "GewehrM95",
+    "attack_point": 90,
+    "firing_rate": 1.1,
+    "bullet_speed": 620,
+    "reaction": 1,
+    "precision": {
+      "ads": 99.5,
+      "hip_shooting": 80
+    },
+    "overheating_rate": 0,
+    "magazine_data": {
+      "capacity": 5
+    },
+    "initial_ammo": 25,
+    "reloading_data": {
+      "type": "clip",
+      "clip_capacity": 5,
+      "second_of_clip": 3,
+      "second_of_one": 3
+    }
+  }

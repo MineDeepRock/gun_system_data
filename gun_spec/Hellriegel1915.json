@@ -1,0 +1,21 @@
+{
+    "type": "SMG",
+    "name": "Hellriegel1915",
+    "attack_point": 26,
+    "firing_rate": 11,
+    "bullet_speed": 380,
+    "reaction": 0,
+    "precision": {
+      "ads": 90,
+      "hip_shooting": 85
+    },
+    "overheating_rate": 2.5,
+    "magazine_data": {
+      "capacity": 59
+    },
+    "initial_ammo": 120,
+    "reloading_data": {
+      "type": "magazine",
+      "second": 3.8
+    }
+  }

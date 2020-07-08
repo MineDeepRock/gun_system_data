@@ -1,0 +1,21 @@
+{
+    "type": "SMG",
+    "name": "Automatico",
+    "attack_point": 23,
+    "firing_rate": 15,
+    "bullet_speed": 380,
+    "reaction": 0,
+    "precision": {
+      "ads": 90,
+      "hip_shooting": 85
+    },
+    "overheating_rate": 0,
+    "magazine_data": {
+      "capacity": 25
+    },
+    "initial_ammo": 125,
+    "reloading_data": {
+      "type": "magazine",
+      "second": 2.1
+    }
+  }

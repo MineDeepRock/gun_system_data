@@ -1,0 +1,21 @@
+{
+    "type": "LMG",
+    "name": "Chauchat",
+    "attack_point": 38,
+    "firing_rate": 6,
+    "bullet_speed": 720,
+    "reaction": 0,
+    "precision": {
+      "ads": 97,
+      "hip_shooting": 75
+    },
+    "overheating_rate": 0,
+    "magazine_data": {
+      "capacity": 20
+    },
+    "initial_ammo": 80,
+    "reloading_data": {
+      "type": "magazine",
+      "second": 3
+    }
+  }

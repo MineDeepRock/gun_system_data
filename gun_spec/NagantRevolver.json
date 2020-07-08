@@ -1,0 +1,21 @@
+{
+    "type": "Revolver",
+    "name": "NagantRevolver",
+    "attack_point": 40,
+    "firing_rate": 3.3,
+    "bullet_speed": 335,
+    "reaction": 0,
+    "precision": {
+      "ads": 97,
+      "hip_shooting": 90
+    },
+    "overheating_rate": 0,
+    "magazine_data": {
+      "capacity": 7
+    },
+    "initial_ammo": 21,
+    "reloading_data": {
+      "type": "one_by_one",
+      "second": 1.3
+    }
+  }

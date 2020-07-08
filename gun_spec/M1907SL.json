@@ -1,0 +1,21 @@
+{
+    "type": "AssaultRifle",
+    "name": "M1907SL",
+    "attack_point": 42,
+    "firing_rate": 5,
+    "bullet_speed": 570,
+    "reaction": 0,
+    "precision": {
+      "ads": 95,
+      "hip_shooting": 90
+    },
+    "overheating_rate": 0,
+    "magazine_data": {
+      "capacity": 20
+    },
+    "initial_ammo": 63,
+    "reloading_data": {
+      "type": "magazine",
+      "second": 2.3
+    }
+  }

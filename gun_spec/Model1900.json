@@ -1,0 +1,23 @@
+{
+    "type": "Shotgun",
+    "name": "Model1900",
+    "attack_point": 13,
+    "firing_rate": 20,
+    "bullet_speed": 500,
+    "reaction": 2,
+    "precision": {
+      "ads": 99.5,
+      "hip_shooting": 80
+    },
+    "overheating_rate": 0,
+    "magazine_data": {
+      "capacity": 2
+    },
+    "initial_ammo": 30,
+    "reloading_data": {
+      "type": "clip",
+      "clip_capacity": 2,
+      "second_of_clip": 2.4,
+      "second_of_one": 3.2
+    }
+  }

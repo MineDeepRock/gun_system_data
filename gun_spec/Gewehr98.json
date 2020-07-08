@@ -1,0 +1,23 @@
+{
+    "type": "SniperRifle",
+    "name": "Gewehr98",
+    "attack_point": 100,
+    "firing_rate": 0.8,
+    "bullet_speed": 880,
+    "reaction": 2.5,
+    "precision": {
+      "ads": 99.5,
+      "hip_shooting": 80
+    },
+    "overheating_rate": 0,
+    "magazine_data": {
+      "capacity": 5
+    },
+    "initial_ammo": 25,
+    "reloading_data": {
+      "type": "clip",
+      "clip_capacity": 5,
+      "second_of_clip": 1.5,
+      "second_of_one": 0.5
+    }
+  }

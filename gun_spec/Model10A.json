@@ -1,0 +1,21 @@
+{
+    "type": "Shotgun",
+    "name": "Model10A",
+    "attack_point": 12,
+    "firing_rate": 1.3,
+    "bullet_speed": 333,
+    "reaction": 1,
+    "precision": {
+      "ads": 88,
+      "hip_shooting": 88
+    },
+    "overheating_rate": 0,
+    "magazine_data": {
+      "capacity": 6
+    },
+    "initial_ammo": 18,
+    "reloading_data": {
+      "type": "one_by_one",
+      "second": 0.5 
+    }
+  }

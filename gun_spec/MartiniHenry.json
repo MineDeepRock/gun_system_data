@@ -1,0 +1,21 @@
+{
+    "type": "SniperRifle",
+    "name": "MartiniHenry",
+    "attack_point": 112,
+    "firing_rate": 0.4,
+    "bullet_speed": 440,
+    "reaction": 3,
+    "precision": {
+      "ads": 99.5,
+      "hip_shooting": 80
+    },
+    "overheating_rate": 0,
+    "magazine_data": {
+      "capacity": 1
+    },
+    "initial_ammo": 29,
+    "reloading_data": {
+      "type": "one_by_one",
+      "second": 2.3
+    }
+  }

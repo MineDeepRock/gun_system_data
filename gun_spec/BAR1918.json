@@ -1,0 +1,21 @@
+{
+    "type": "LMG",
+    "name": "BAR1918",
+    "attack_point": 26,
+    "firing_rate": 10,
+    "bullet_speed": 820,
+    "reaction": 0,
+    "precision": {
+      "ads": 98,
+      "hip_shooting": 75
+    },
+    "overheating_rate": 0,
+    "magazine_data": {
+      "capacity": 20
+    },
+    "initial_ammo": 100,
+    "reloading_data": {
+      "type": "magazine",
+      "second": 3
+    }
+  }

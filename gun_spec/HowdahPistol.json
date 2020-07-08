@@ -1,0 +1,21 @@
+{
+    "type": "HandGun",
+    "name": "HowdahPistol",
+    "attack_point": 53,
+    "firing_rate": 4,
+    "bullet_speed": 230,
+    "reaction": 0,
+    "precision": {
+      "ads": 98,
+      "hip_shooting": 95
+    },
+    "overheating_rate": 0,
+    "magazine_data": {
+      "capacity": 4
+    },
+    "initial_ammo": 28,
+    "reloading_data": {
+      "type": "magazine",
+      "second": 3.3
+    }
+  }

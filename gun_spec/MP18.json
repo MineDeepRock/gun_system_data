@@ -1,0 +1,21 @@
+{
+    "type": "SMG",
+    "name": "MP18",
+    "attack_point": 28,
+    "firing_rate": 9,
+    "bullet_speed": 420,
+    "reaction": 0,
+    "precision": {
+      "ads": 90,
+      "hip_shooting": 85
+    },
+    "overheating_rate": 0,
+    "magazine_data": {
+      "capacity": 32
+    },
+    "initial_ammo": 96,
+    "reloading_data": {
+      "type": "magazine",
+      "second": 2
+    }
+  }

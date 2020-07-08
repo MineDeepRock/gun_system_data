@@ -1,0 +1,21 @@
+{
+    "type": "Shotgun",
+    "name": "Automatic12G",
+    "attack_point": 7,
+    "firing_rate": 4.2,
+    "bullet_speed": 333,
+    "reaction": 1,
+    "precision": {
+      "ads": 88,
+      "hip_shooting": 88
+    },
+    "overheating_rate": 0,
+    "magazine_data": {
+      "capacity": 5
+    },
+    "initial_ammo": 35,
+    "reloading_data": {
+      "type": "one_by_one",
+      "second": 0.7 
+    }
+  }

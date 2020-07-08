@@ -1,0 +1,21 @@
+{
+    "type": "HandGun",
+    "name": "Mle1903",
+    "attack_point": 30,
+    "firing_rate": 3.5,
+    "bullet_speed": 350,
+    "reaction": 0,
+    "precision": {
+      "ads": 98,
+      "hip_shooting": 95
+    },
+    "overheating_rate": 0,
+    "magazine_data": {
+      "capacity": 7
+    },
+    "initial_ammo": 48,
+    "reloading_data": {
+      "type": "magazine",
+      "second": 2 
+    }
+  }

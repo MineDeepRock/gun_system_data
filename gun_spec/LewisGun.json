@@ -1,0 +1,21 @@
+{
+    "type": "LMG",
+    "name": "LewisGun",
+    "attack_point": 26,
+    "firing_rate": 8,
+    "bullet_speed": 740,
+    "reaction": 0,
+    "precision": {
+      "ads": 98.5,
+      "hip_shooting": 77
+    },
+    "overheating_rate": 0,
+    "magazine_data": {
+      "capacity": 47
+    },
+    "initial_ammo": 94,
+    "reloading_data": {
+      "type": "magazine",
+      "second": 2.85
+    }
+  }

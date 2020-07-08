@@ -1,0 +1,21 @@
+{
+    "type": "Shotgun",
+    "name": "M1897",
+    "attack_point": 10,
+    "firing_rate": 2.3,
+    "bullet_speed": 333,
+    "reaction": 2,
+    "precision": {
+      "ads": 88,
+      "hip_shooting": 88
+    },
+    "overheating_rate": 0,
+    "magazine_data": {
+      "capacity": 5
+    },
+    "initial_ammo": 25,
+    "reloading_data": {
+      "type": "one_by_one",
+      "second": 0.5 
+    }
+  }

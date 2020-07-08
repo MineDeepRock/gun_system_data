@@ -1,0 +1,21 @@
+{
+    "type": "Revolver",
+    "name": "RevolverMk6",
+    "attack_point": 53,
+    "firing_rate": 3.3,
+    "bullet_speed": 230,
+    "reaction": 0,
+    "precision": {
+      "ads": 97,
+      "hip_shooting": 90
+    },
+    "overheating_rate": 0,
+    "magazine_data": {
+      "capacity": 6
+    },
+    "initial_ammo": 36,
+    "reloading_data": {
+      "type": "magazine",
+      "second": 2.85
+    }
+  }

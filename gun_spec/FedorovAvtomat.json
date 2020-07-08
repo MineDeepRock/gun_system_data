@@ -1,0 +1,21 @@
+{
+    "type": "AssaultRifle",
+    "name": "FedorovAvtomat",
+    "attack_point": 28,
+    "firing_rate": 7.5,
+    "bullet_speed": 570,
+    "reaction": 0,
+    "precision": {
+      "ads": 95,
+      "hip_shooting": 90
+    },
+    "overheating_rate": 0,
+    "magazine_data": {
+      "capacity": 26
+    },
+    "initial_ammo": 104,
+    "reloading_data": {
+      "type": "magazine",
+      "second": 2.7
+    }
+  }

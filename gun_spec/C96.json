@@ -1,0 +1,21 @@
+{
+    "type": "HandGun",
+    "name": "C96",
+    "attack_point": 28,
+    "firing_rate": 5,
+    "bullet_speed": 440,
+    "reaction": 0,
+    "precision": {
+      "ads": 98,
+      "hip_shooting": 95
+    },
+    "overheating_rate": 0,
+    "magazine_data": {
+      "capacity": 10
+    },
+    "initial_ammo": 40,
+    "reloading_data": {
+      "type": "magazine",
+      "second": 0.25 
+    }
+  }
