@@ -15,7 +15,9 @@
     },
     "initial_ammo": 40,
     "reloading_data": {
-      "type": "magazine",
-      "second": 0.25 
+      "type": "clip",
+      "clip_capacity": 5,
+      "second_of_clip": 1.4,
+      "second_of_one": 0.25
     }
   }
