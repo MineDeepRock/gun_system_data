@@ -2,7 +2,7 @@
     "type": "Shotgun",
     "name": "Model1900",
     "attack_point": 13,
-    "firing_rate": 20,
+    "firing_rate": 5,
     "bullet_speed": 500,
     "reaction": 2,
     "precision": {
