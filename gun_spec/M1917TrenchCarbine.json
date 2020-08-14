@@ -1,0 +1,21 @@
+{
+  "type": "DMR",
+  "name": "M1917TrenchCarbine",
+  "attack_point": 34,
+  "firing_rate": 5.98,
+  "bullet_speed": 460,
+  "reaction": 0,
+  "precision": {
+    "ads": 94,
+    "hip_shooting": 88
+  },
+  "overheating_rate": 0,
+  "magazine_data": {
+    "capacity": 41
+  },
+  "initial_ammo": 82,
+  "reloading_data": {
+    "type": "magazine",
+    "second": 3.5
+  }
+}
