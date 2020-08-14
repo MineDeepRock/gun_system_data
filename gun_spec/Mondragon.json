@@ -1,0 +1,23 @@
+{
+  "type": "DMR",
+  "name": "Mondragon",
+  "attack_point": 40,
+  "firing_rate": 4.2,
+  "bullet_speed": 800,
+  "reaction": 0,
+  "precision": {
+    "ads": 96,
+    "hip_shooting": 90
+  },
+  "overheating_rate": 0,
+  "magazine_data": {
+    "capacity": 10
+  },
+  "initial_ammo": 70,
+  "reloading_data": {
+    "type": "clip",
+    "clip_capacity": 5,
+    "second_of_clip": 1.13,
+    "second_of_one": 0.56
+  }
+}
