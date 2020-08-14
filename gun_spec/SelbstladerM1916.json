@@ -1,0 +1,21 @@
+{
+  "type": "DMR",
+  "name": "SelbstladerM1916",
+  "attack_point": 40,
+  "firing_rate": 3.7,
+  "bullet_speed": 800,
+  "reaction": 0,
+  "precision": {
+    "ads": 96,
+    "hip_shooting": 90
+  },
+  "overheating_rate": 0,
+  "magazine_data": {
+    "capacity": 26
+  },
+  "initial_ammo": 52,
+  "reloading_data": {
+    "type": "magazine",
+    "second": 2.37
+  }
+}
