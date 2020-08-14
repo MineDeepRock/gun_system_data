@@ -1,0 +1,21 @@
+{
+  "type": "DMR",
+  "name": "RSC1917",
+  "attack_point": 53,
+  "firing_rate": 2.98,
+  "bullet_speed": 720,
+  "reaction": 0,
+  "precision": {
+    "ads": 96,
+    "hip_shooting": 90
+  },
+  "overheating_rate": 0,
+  "magazine_data": {
+    "capacity": 6
+  },
+  "initial_ammo": 54,
+  "reloading_data": {
+    "type": "magazine",
+    "second": 3.3
+  }
+}
