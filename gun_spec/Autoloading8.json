@@ -1,0 +1,23 @@
+{
+  "type": "DMR",
+  "name": "Autoloading8",
+  "attack_point": 42,
+  "firing_rate": 3.7,
+  "bullet_speed": 660,
+  "reaction": 0,
+  "precision": {
+    "ads": 95.5,
+    "hip_shooting": 90
+  },
+  "overheating_rate": 0,
+  "magazine_data": {
+    "capacity": 5
+  },
+  "initial_ammo": 65,
+  "reloading_data": {
+    "type": "clip",
+    "clip_capacity": 5,
+    "second_of_clip": 1.56,
+    "second_of_one": 0.5
+  }
+}
