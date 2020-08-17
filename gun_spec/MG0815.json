@@ -1,0 +1,21 @@
+{
+  "type": "LMG",
+  "name": "MG0815",
+  "attack_point": 28,
+  "firing_rate": 7.16,
+  "bullet_speed": 870,
+  "reaction": 0,
+  "precision": {
+    "ads": 97,
+    "hip_shooting": 75
+  },
+  "overheating_rate": 1.49,
+  "magazine_data": {
+    "capacity": 200
+  },
+  "initial_ammo": 400,
+  "reloading_data": {
+    "type": "magazine",
+    "second": 	5.8
+  }
+}
